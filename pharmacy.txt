@@ -1,0 +1,98 @@
+ID	Product Name	                              Public price     qountity
+1	Aclasta 100 solution	                        1860              50  
+2	Akinton 20 tablets	                           9              50
+3	Alvesko 80 mg	                                  90              50  
+4	Antosed tablets 1 bar	                           4.25           50
+5	Arab illiterate 50 mg 50 Capsules	         220              50
+6	Arkstra 2.5 mg 10 injection	                 390              50
+7	Aspusid 75 mg 30 tablet	                           3              50
+8	Atakand 8 mg	                                  40              50
+9	Augmenten 1 g 14 tablet	                          58              50
+10	Avara, 10 mg. 30 tablet	                         240              50
+11	Avinior 10 mg 30 tablet	                       19100              50
+12	Biorigon 100 1 ampoule	                         180              50
+13	Brufen ritard 20 tablets                          28              50
+14	Buskopan syrup	                                   3.5            50
+15	Champeix 1 mg	                                 270              50
+16	Exelon 3 mg 28 capsules	                         210              50
+17	Femara 2.5 mg 30 tablet	                         555              50
+18	For Osnts 10 mg 1 vial	                        5600              50
+19	Habsara 10 mg 30 tablet	                         520              50
+20	Haystack 100 ampoule	                         140              50
+21	Haystack 150 mg	                                   6.75           50
+22	Heredia injection 15 mg 4	                 930.6            50
+23	Kamto 100 mg 5 ml                               1550              50
+24	Kamto 40 mg 2 ml	                         650              50
+25	Klexan 60 mg.	                                  74              50
+26	Leaving 28 tablet	                          75              50
+27	Lipitor 40 mg. 14 table                          134              50
+28	Losik 5 vial	                                 271.25           50
+29	Meridia 10 mg 28 capsules	                 193.2            50
+30	Metac 3 ampoule	                                  75              50
+31	Mironam 1 gram 10 Vial	                        1028              50
+32	Navoban 5 mg 5 Capsules	                         391.5            50
+33	Navoban 5 mg ampoule	                          90.5            50
+34	Noflo 20 tablets	                           5              50
+35	Pew cut 100 capsules	                          77              50
+36	Plavix 28 tablet	                         205              50 
+37	Plus Kounkor 10 mg 20 tablets	                  24              50 
+38	Sarquail 200 mg 30 tablet	                 375              50
+39	Seroxat couted 20 mg 30 tablets                   68.25           50
+40	Snafi 20 mg 2 tablets	                          78              50
+41	Ssifovloren a solution of 250 ms                1190              50
+42	To Amesal 250 mg 14 tablet	                  85              50
+43	Verutron 20 capsules	                          33              50
+44	Viswdan 15 mg	                                6500              50
+45	Vostymon 10 Vial	                         870              50
+46	Xjayd 250 mg tablets	                        1700              50
+47	Zeviks 100 mg 28 tablet	                         260              50
+48	Zocor 20 mg 28 tablet	                         160              50
+49	Zulir 150 mg Vial	                        2700              50 
+51	Adidas Parfums Lado De Toilette                	 119              50
+52	AISI Bates of the mouth freshener	         144              50
+53	Allview falling Hair Spray 200 ml	          55              50
+54	Alubantin Lotion 190 cm                           11              50
+55	Baijn hair dye	                                  23.75           50
+56	Cocoa butter Luna	                           4.5            50
+57	Dandov Shampoo 150 ms	                          18.5            50
+58	Dettol air freshener 300 ml                    	  23              50
+59	Dettol antiseptic	                          31              50
+60	Dettol Multi-Purpose 1 liter	                  35              50
+61	Dov 700 ml to treat hair loss	                  35              50
+62	Dove soap	                                  17.6            50
+63	Easy Care Baby napkin Ibis 80	                  14              50
+64	Easy Care refreshing wipes 80	                  10.5            50
+65	Effi Baby 5 Junior Jumbo 64 Diaper	          85.25           50
+66	Eva Collagen Face Wash	                          35              50
+67	Eva face lotion Paljlasrin	                  14              50
+68	Eva Glycerin cream 170g	                          26              50
+69	Eva skin cream	                                  14              50
+70	Except you 25 grams toothpaste	                   2.75           50
+71	Fa Afterhev the Sport	                          24.5            50
+72	Fa Spray 200 ml 	                          26              50
+73	Fatika Hair Cream	                           9.25           50
+74	Fox brush TOTAL	                                  16              50
+75	Gillis balm for dry hair 200 ml	                  29.75           50
+76	Hare code generation	                           9.75           50
+77	Ivazlen cream	                                   8.5            50
+78	Luna Sun Block	                                  19              50
+79	Lux Deva 125 grams	                           2.5            50
+80	Malaysia Perfume Men	                          29.9            50
+81	Max Touch Fragrant 80 napkin	                  15              50
+82	Medical brush	                                  17.5            50
+83	Mulvks Turkish Super Jumbo	                 133              50
+84	Net Klein powder 60 ml	                           8.5            50
+85	Nivea cream Kew	                                 100              50
+86	Nivea Shaving cream 100 ml	                  17              50
+87	Nivea Shower generation	                          29              50
+88	Njoaquim 60 ml hair oil	                           8.5            50
+89	Perfumed Garden 300 ms	                           7.5            50
+90	Plancr 39 Shampoo 250 ml	                 215.5            50
+91	Rexona 175 ml Active	                          24.5            50
+92	Rexona Cotton 175 ml	                          24.5            50
+93	Rutaj Hair Oil 100 ml	                          29              50
+94	Savannah 125g Soap	                           2              50
+95	Savannah Schauer generation 300 ml	          12              50
+96	Signal 125 ml apple	                           8              50
+97	Skin Cap Shampoo 150 ml	                          85              50
+98	Viansé 180 oil	                                   8              50

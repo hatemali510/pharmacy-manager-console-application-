@@ -1,0 +1,23 @@
+﻿Build started 11/22/2013 8:11:13 PM.
+     1>Project "E:\zft\pharm1\pharm1\pharm1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp emp.cpp
+         emp.cpp
+     1>e:\zft\pharm1\pharm1\index.h(5): error C2011: 'index' : 'class' type redefinition
+                 e:\zft\pharm1\pharm1\index.h(5) : see declaration of 'index'
+     1>e:\zft\pharm1\pharm1\inventory.h(4): error C2504: 'index' : base class undefined
+     1>e:\zft\pharm1\pharm1\emp.h(7): error C2504: 'index' : base class undefined
+         Source.cpp
+     1>e:\zft\pharm1\pharm1\index.h(5): error C2011: 'index' : 'class' type redefinition
+                 e:\zft\pharm1\pharm1\index.h(5) : see declaration of 'index'
+     1>e:\zft\pharm1\pharm1\inventory.h(4): error C2504: 'index' : base class undefined
+     1>e:\zft\pharm1\pharm1\emp.h(7): error C2504: 'index' : base class undefined
+     1>e:\zft\pharm1\pharm1\source.cpp(41): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\zft\pharm1\pharm1\source.cpp(46): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\zft\pharm1\pharm1\source.cpp(51): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+     1>Done Building Project "E:\zft\pharm1\pharm1\pharm1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.33
